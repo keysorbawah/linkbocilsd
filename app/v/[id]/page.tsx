@@ -88,25 +88,25 @@ export default async function Video({ params }: PageProps) {
         headline: `Bokep ${file.title} - ${SITENAME}`,
         image: file.splash_img,
         description: `Bokep ${file.title} di ${SITENAME} Video Bokep Indo Bocil Jepang Ngentot Jav Jilbab Smp Barat Mama Viral Sma Terbaru`,
-        url: `https://viralngewe.pages.dev/v/${file.filecode}`,
+        url: `https://linkbocilsd.pages.dev/v/${file.filecode}`,
         datePublished: new Date(
             file.uploaded + ".000Z"
         ).toISOString(),
         publisher: {
             '@type': 'Organization',
             name: `${SITENAME}`,
-            logo: 'https://viralngewe.pages.dev/favicon.ico'},
+            logo: 'https://linkbocilsd.pages.dev/favicon.ico'},
             author: {
                 '@type': 'Person',
                 name: 'admin',
-                url: 'https://viralngewe.pages.dev'
+                url: 'https://linkbocilsd.pages.dev'
               },
         interactionStatistic: {
             '@type': `InteractionCounter`,
                 userInteractionCount: `${file.views}`,
             interactionType: {
                 '@type': `ReadAction`,
-                target: `https://viralngewe.pages.dev/v/${file.filecode}`
+                target: `https://linkbocilsd.pages.dev/v/${file.filecode}`
             }  
         }
         }
