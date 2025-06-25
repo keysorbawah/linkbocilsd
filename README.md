@@ -1,2 +1,1 @@
-# linkbocilsd
-linkbocilsd
+# [linkbocilsd](https://linkbocilsd.pages.dev)
